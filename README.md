@@ -2,3 +2,4 @@ This project aimes to analyze star ratings of product reviews of a dutch e-comme
 
 Topic modeling of review content is applied to understand star ratings.
 
+Results are not included because information is private
